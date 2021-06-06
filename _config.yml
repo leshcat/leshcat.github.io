@@ -21,9 +21,9 @@
 title: Lucky Doge HQ
 email: dzenisevich.aliaksei@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey everyone! I’m Alexey Denisevich, known as "leshcat", and this is my website.
-  It is mainly dedicated to IT Tech & Management topics, for instance DevOps topic.
-  I hope my posts will help you to find the answers for the questions that brought you here in a first place.
+  Hi everyone! I’m Alexey Denisevich, known as "leshcat", and this is my website.
+  It is mainly dedicated to IT Tech & Management topics, take a DevOps theme for an instance.
+  Hopefully, my posts will help you finding the answers for the questions that brought you here in a first place.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ldhq.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
