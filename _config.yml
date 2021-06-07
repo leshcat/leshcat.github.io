@@ -22,8 +22,8 @@ title: Lucky Doge HQ
 email: dzenisevich.aliaksei@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi everyone! I’m Alexey Denisevich, known as "leshcat", and this is my website.
-  It is mainly dedicated to IT Tech & Management topics, take a DevOps theme for an instance.
-  Hopefully, my posts will help you finding the answers for the questions that brought you here in a first place.
+  It is mainly dedicated to IT Tech & Management topics, take a DevOps subject for an instance.
+  Hopefully, my posts will aid you in finding the answers for the questions that brought you here in a first place.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ldhq.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -33,7 +33,13 @@ url: "https://ldhq.io" # the base hostname & protocol for your site, e.g. http:/
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
