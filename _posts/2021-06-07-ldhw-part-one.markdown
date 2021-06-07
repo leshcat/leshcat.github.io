@@ -20,13 +20,13 @@ Beyond working hours, it was a time of relentless grinding of the countless docu
 
 You had to learn all of it and learn it quick, starting from CI/CD toolset like Git or Bamboo/Jenkins, Mythical Clouds, Configuration Management & "Infrastructure as a Code" toolset till Docker Containers and even early Kubernetes, with slim-to-none documentation it had back in the days.
 
-In other words, it was an entirely Different World, especially in comparison with "regular" Linux Engineer role i've assumed prior the "DevOps Epoch".
+In other words, it was an entirely Different World, especially in comparison with "regular" Linux Engineer role i've assumed prior the "DevOps Epoch" and it was extremely exciting & rewarding, felt great!
 
 Of course, as of year 2021, it's all De Facto standard tools, entry level "DevOps" specialists are working with on daily basis.
 
 Never the less, time passed by, the toolset knowledge, practices, concepts, processes, designs, even mindset - all were shaping, mutating and growing in my head exponentially.
 
-But One Thing remained absolutely the same: **it was still unclear what "DevOps" is** :disappointed:
+But One Thing remained absolutely the same: **it was still unclear what "DevOps" is** :confused:
 
 I am called "DevOps" engineer. Is "DevOps" about toolset or some kind of set of practices?
 
