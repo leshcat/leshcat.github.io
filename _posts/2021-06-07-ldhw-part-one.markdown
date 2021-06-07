@@ -8,9 +8,9 @@ excerpt_separator: <!--more-->
 ---
 ![DevOps Logo](/assets/images/devops-logo-ncpyrght.jpg)
 
-Back in 2015, when "DevOps" reached its yet another recurrent hype, one day i woke up and found myself being a Junior DevOps Engineer.
+Back in 2015, i woke up and found myself being a Junior DevOps Engineer. I wanted to be on this train.
 
-The Question was: what is "DevOps" and how do you cook it?
+But the question was: what is "DevOps" and how do you cook it?
 
 <!--more-->
 
