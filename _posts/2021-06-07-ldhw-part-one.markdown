@@ -2,17 +2,21 @@
 layout: post
 title:  "Learn DevOps The Hard Way: Part One"
 date:   2021-06-07 18:58:00 +0300
-categories: devops
+categories: posts
+tags: devops
+excerpt_separator: <!--more-->
 ---
 ![DevOps Logo](/assets/images/devops-logo-ncpyrght.jpg)
 
 Back in 2015, when "DevOps" reached its yet another recurrent hype, one day i woke up and found myself being a Junior DevOps Engineer.
 
-I got the job, but had no idea of what DevOps is, its purpose, assumed little-to-none knowledge about the toolset that demanded mastering(except pretty good Linux knowledge i've already had).
+The Question was: what is "DevOps" and how do you cook it?
 
-It was literally my personal ["Age of Discovery"](https://en.wikipedia.org/wiki/Age_of_Discovery), where every single day you were to explore new unknown fields for yourself.
+<!--more-->
 
-Beyond working hours, it was a time of relentless grinding of the countless documentation, forums and posts.
+Truth is, I had no idea what DevOps was, its purpose, assumed little-to-none knowledge about the toolset that demanded mastering(except pretty good Linux knowledge i've already had), though company was fine with it and i got the job anyway.
+
+Beyond working hours, it was a time of relentless grinding of the countless documentation, forums and posts, literally my personal ["Age of Discovery"](https://en.wikipedia.org/wiki/Age_of_Discovery), where every single day you were to explore new unknown fields for yourself.
 
 You had to learn all of it and learn it quick, starting from CI/CD toolset like Git or Bamboo/Jenkins, Mythical Clouds, Configuration Management & "Infrastructure as a Code" toolset till Docker Containers and even early Kubernetes, with slim-to-none documentation it had back in the days.
 
