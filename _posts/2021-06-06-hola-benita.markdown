@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hola Benita!"
 date:   2021-06-06 14:30:00 +0300
 categories: posts

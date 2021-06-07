@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Learn DevOps The Hard Way: Part One"
 date:   2021-06-07 18:58:00 +0300
 categories: posts
