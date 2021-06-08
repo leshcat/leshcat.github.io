@@ -147,7 +147,8 @@ defaults:
     values:
       layout: single
       read_time: true
-      comments: # true
+      # comments: true
+      show_date: true
       share: true
       related: false
       author_profile: false
