@@ -4,15 +4,16 @@ title:  "Learn DevOps The Hard Way: Part One"
 date:   2021-06-07 18:58:00 +0300
 categories: posts
 tags: devops
-excerpt_separator: <!--more-->
+excerpt: >-
+  Back in 2015, i woke up and found myself being a Junior DevOps Engineer.
+  But the question was: what is "DevOps" and how do you cook it?
 ---
 ![DevOps Logo](/assets/images/devops-logo-ncpyrght.jpg)
 
-Back in 2015, i woke up and found myself being a Junior DevOps Engineer. I wanted to be on this train.
+Back in 2015, i woke up and found myself being a Junior DevOps Engineer.
+I wanted to be on this train and i got lucky to board it.
 
 But the question was: what is "DevOps" and how do you cook it?
-
-<!--more-->
 
 Truth is, I had no idea what DevOps was, its purpose, assumed little-to-none knowledge about the toolset that demanded mastering(except pretty good Linux knowledge i've already had), though company was fine with it and i got the job anyway.
 
