@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Learn DevOps The Hard Way: Part Two"
+title:  "Learn DevOps The Hard Way: Part II"
 date:   2021-06-11 14:50:00 +0300
 categories: posts
 tags: devops
