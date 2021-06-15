@@ -21,7 +21,7 @@ Offered by EMC Education Services, which presumably didn't stand the stress of t
 
 Of course, i was(and still am :wink:) limited with understanding things, probably they told more than i could comprehend but finally it came out as initial idea of what "DevOps" is and it looked something like this:
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/o9J_l_gyupY=/?pres=1&frameId=3074457359956540428&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe height="500" width="100%" src="https://miro.com/app/embed/o9J_l_gyupY=/?pres=1&frameId=3074457359956540428&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 
 In short:

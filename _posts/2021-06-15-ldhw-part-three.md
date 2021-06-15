@@ -26,7 +26,7 @@ Among loads of helpful knowledge, it has an invaluable technical practices of wh
 
 In order to simplify the overall mass of data covered in "Handbook", I 've took a liberty to *generically* visualise it in One Picture, emphasising on "Three Ways":
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/o9J_l_dQ8LQ=/?pres=1&frameId=3074457360199775909&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe height="500" width="100%" src="https://miro.com/app/embed/o9J_l_dQ8LQ=/?pres=1&frameId=3074457360199775909&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 In my humble opinion, this Book was a solid step forward for all DevOps movement out there: fresh, elaborate and consistent view that offered numerous practical steps to come closer to a working model of DevOps *Methodology* :fire:
 
