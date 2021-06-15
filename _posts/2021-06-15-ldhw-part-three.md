@@ -6,8 +6,6 @@ categories: posts
 tags: devops
 excerpt: >-
   The real game changer for "DevOps" starts from Books: "Project Phoenix" & "The DevOps Handbook"...or Not?
-header:
-  teaser: "/assets/images/logo_alt_2_88x88.png"
 
 ---
 
