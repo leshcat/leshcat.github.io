@@ -42,6 +42,6 @@ and this is how they align on DevOps Principles schema (new marked with yellow c
 
 <iframe height="500" width="100%" src="https://miro.com/app/embed/o9J_l_dQ8LQ=/?pres=1&frameId=3074457360556876015&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
-To sum up, in my humble opinion "Accelerate" is designed for Managers & Leadership of all levels in a first place...which by **NO** means should discourage Engineers from reading it!
+To sum up, in my humble opinion "Accelerate" is designed for Managers & Leadership of all levels in a first place...which might discourage some engineers from reading it. By **ALL** means please don't!
 
-Because if think about it, it's Fantastic: the better Management & Leadership will understand how "DevOps" is cooked, the higher chances, you, my friend, the DevOps Engineer, will shift from simply *using* tools & *applying* practices to a much more meaninful - **establishing** DevOps Methodology :wink:
+As reading it from cover to cover, will grant you the least minumum - the knowledge of what to expect from Management and in best case scenario - you, my friend, the DevOps Engineer, will start shifting from simply *Using* tools & *Applying* practices to a much more meaninful **Establishing** DevOps Methodology, completely aligned with Higher Command :wink:
