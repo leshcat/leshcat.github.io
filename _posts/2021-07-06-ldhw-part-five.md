@@ -55,7 +55,9 @@ Trust me on this, you won't regret it!
 
 -----
 
-Okay, since we are now weaponised with up-to-date DevOps Methodology Structure, its Core Principles, practices around them and can explain what actual outcomes they provide, how do we actually proceed with implementing it?
+Okay, we are now weaponised with up-to-date DevOps Methodology Structure, its Core Principles, practices around them and can explain what actual outcomes they provide.
+
+But how do we actually proceed with implementing it?
 
 We'll talk about it in the next post :wink:
 
