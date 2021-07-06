@@ -15,6 +15,8 @@ It could not pass my attention either as i am always ready to get more clarifica
 
 At the end of the day the title had a *"The Science of .. DevOps"* excerpt, right? :wink:
 
+-----
+
 Briefly, "Accelerate" covers very interesing topics, for example:
 - Westrum's typology of organizational cultures
 - eNPS (eNPS Employee Net Promoter Score)
@@ -41,6 +43,8 @@ Nonetheless, 2 valuable additions to "the Flow" and "the Learning" principles we
 and this is how they align on DevOps Principles schema (new marked with yellow circles):
 
 <iframe height="500" width="100%" src="https://miro.com/app/embed/o9J_l_dQ8LQ=/?pres=1&frameId=3074457360556876015&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+-----
 
 To sum up, in my humble opinion "Accelerate" is designed for Managers & Leadership of all levels in a first place...which might discourage some engineers from reading it. By **ALL** means please don't!
 

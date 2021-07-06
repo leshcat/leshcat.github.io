@@ -13,6 +13,8 @@ Time flew and I've gained pretty good quantity & quality of Tech Knowledge, tool
 
 But the full picture was missing, thus the question still remained.
 
+-----
+
 To search for answers i've looked with hope for some consistent courses and found pretty peculiar and promising online course, called:
 
 "DevOps: What, Why and How, Introduction to DevOps"
@@ -37,6 +39,8 @@ As you might notice, in a Сenter of the process there is a *Cultural Change*, i
 Anyway, back then, it felt complete. Finally, something to jump from, lean on.
 
 Later i've assumed Lead Role and with confidence was actively propagandising it, presenting it company wide.
+
+-----
 
 Time flew, the idea seemed to be all great and shiny, except one thing - **it didn't work**.
 

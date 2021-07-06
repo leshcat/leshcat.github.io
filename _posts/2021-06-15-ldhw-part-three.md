@@ -20,6 +20,8 @@ However, most importantly, "Project Phoenix" introduced pivotal principles calle
 
 on which modern vision of DevOps as a Methodology is based on.
 
+-----
+
 Further expansion of those ideas resulted in a must-read book by DevOps Engineer (and frankly speaking by everyone in the Org):
 ["The DevOps Handbook"](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_1?dchild=1&keywords=devops+handbook&qid=1623762578&s=books&sr=1-1) by Gene Kim, Patrick Debois, John Willis, Jez Humble & John Allspaw.
 
@@ -28,6 +30,8 @@ Among loads of helpful knowledge, it has an invaluable technical practices of wh
 In order to simplify the overall mass of data covered in "Handbook", I 've took a liberty to *generically* visualise it in One Picture, emphasising on "Three Ways":
 
 <iframe height="500" width="100%" src="https://miro.com/app/embed/o9J_l_dQ8LQ=/?pres=1&frameId=3074457360199775909&autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+-----
 
 In my humble opinion, this Book was a solid step forward for all DevOps movement out there: fresh, elaborate and consistent view that offered numerous practical steps to come closer to a working model of DevOps *Methodology* :fire:
 

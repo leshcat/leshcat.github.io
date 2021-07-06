@@ -15,6 +15,8 @@ I wanted to be on this train and i got lucky to board it.
 
 But the question was: what is "DevOps" and how do you cook it?
 
+-----
+
 Truth is, I had no idea what DevOps was, its purpose, assumed little-to-none knowledge about the toolset that demanded mastering(except pretty good Linux knowledge i've already had), though company was fine with it and i got the job anyway.
 
 Beyond working hours, it was a time of relentless grinding of the countless documentation, forums and posts, literally my personal ["Age of Discovery"](https://en.wikipedia.org/wiki/Age_of_Discovery), where every single day you were to explore new unknown fields for yourself.
