@@ -25,7 +25,7 @@ First: The instructor for this course, [Courtney Kissler](https://www.coursera.o
 
 Second: That's the #1 course on my memory that was expecting non-technical practical tasks to be completed in order to move forward with training
 
-Third: i've [passed the course]({{ site.url }}/assets/files/Coursera_DVPZCXRCH94W.pdf) and it is aligned my vision :wink:
+Third: i've [passed the course]({{ site.url }}/assets/files/Coursera_DVPZCXRCH94W.pdf) and it is aligned with my vision :wink:
 
 -----
 So, what's new?
