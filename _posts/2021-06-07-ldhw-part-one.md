@@ -8,7 +8,7 @@ excerpt: >-
   Back in 2015, i woke up and found myself being a Junior DevOps Engineer.
   But the question was: what is "DevOps" and how do you cook it?
 ---
-![DevOps Logo](/assets/images/devops-logo-ncpyrght.jpg)
+![DevOps Logo](/assets/images/ldhw-part-one/devops-logo-ncpyrght.jpg)
 
 Back in 2015, i woke up and found myself being a Junior DevOps Engineer.
 I wanted to be on this train and i got lucky to board it.

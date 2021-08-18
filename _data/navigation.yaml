@@ -1,4 +1,6 @@
 main:
+  - title: "Glossary"
+    url: /glossary/
   - title: "Tags"
     url: /tags/
   - title: "About"
