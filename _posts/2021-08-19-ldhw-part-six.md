@@ -1,20 +1,20 @@
 ---
 layout: single
-title: "Learn DevOps The Hard Way: Begin with DevOps Transformation"
-date: 2021-08-18
+title: "Learn DevOps The Hard Way Finale: Org Transformation"
+date: 2021-08-19
 categories: posts
 tags: devops
 toc: true
 toc_label: Table of Contents
 toc_sticky: true
 excerpt: >-
-  So we know what DevOps Methodology is and willing to apply it. How do we Begin?
+  So we know what DevOps Methodology is and willing to apply it. So where do we Begin?
 ---
 ## Preamble
 
 ![Big things have small beginnings](/assets/images/ldhw-part-six/big-things-have-small-beginnings-small-beginnings.gif)
 
-So how do we Begin? :slightly_smiling_face:
+Sooo...where do we Begin? :slightly_smiling_face:
 
 First, lets figure out to what type of Organizations DevOps Methodology can be applied.
 
@@ -28,9 +28,9 @@ However, According to ["The DevOps Handbook"](https://www.amazon.com/DevOps-Hand
 
 ### Observation: DevOps in existing Organizations
 
-Hiring a bunch of "DevOps" guys and safely assuming you have DevOps now, *"just like anybody else"* :copyright: - is the most common mistake existing Organizations do.
+Hiring a bunch of "DevOps" guys and safely assuming you have DevOps now, *"just like anybody else"* - is the most common mistake existing Organizations do.
 
-Being one of this guys, generally speaking there are two places you can fall-in:
+Being *"one of these"* guys, generally speaking there are two places you can fall-in:
 
 * with very low probability you 'll be assigned to some "RnD" Team with strict Infrastructure & CI/CD activities
 
@@ -42,7 +42,11 @@ Lack of core understanding of what DevOps Methodology is and what "DevOps Engine
 
 ### Observation: DevOps in Startups
 
-Even if [CHAPTER 3 of "Inspired" book](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N){:target="_blank"} states that Startups don't really care much about Processes and Methodologies, as their primary goal is to get the market niche and earn its first attention before they run out of money, I believe it is imperative to establish DevOps Methodology right from the start, thus ensuring rapid delivery that startups need and solid basis for future scaling.
+Or missing entirely, or not taken seriously, which actually kinda makes sense.
+
+To back this up, [CHAPTER 3 of "Inspired" book](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N){:target="_blank"} states that Startups don't really care much about Processes and Methodologies, as their primary goal is to get the market niche and earn its first attention before they run out of money.
+
+Nevertheless, I believe it is imperative to establish DevOps Methodology right from the start, thus ensuring rapid delivery which is pivotal for any Startup survival and solid basis for future scaling.
 
 ## Starting DevOps Transformation
 
@@ -86,7 +90,7 @@ Nothing crazy new will follow below, but it's important you do a self-check:
       - **What** is exactly expected: links, "just like they have", metrics etc
       - **How** it should be implemented: recommendations or restrictions of desired solution
 
-    *  If your Sprints constantly failing due to the lack of working Prioritising Mechanism or it is simply not respected, as a workaround instead of Sprints consider ScrumBan:
+    *  If your Sprints constantly failing due to the lack of working Prioritising Mechanism or it is simply not respected, as a workaround, instead of Sprints consider ScrumBan:
 
         Check out following resources for proper ScrumBan transition in terms of steps and calculating Work In Process(WIP):
         * ["Agile: Scrum, Kanban & Scrumban"](https://medium.com/@shehanb/agile-scrum-kanban-scrumban-cheatsheet-sprint-artifacts-ceremonies-software-jira-trello-scrumage-pmbok-e669d5dbf6f3){:target="_blank"}
@@ -111,7 +115,7 @@ Based on experience i 've gained through the years and books combined I present 
 
    Why should this case be any different?
 
-   Make an accent that Team(s) are now working under [DevOps Methodology and its 3 Ways](https://miro.com/app/board/o9J_l_dQ8LQ=/?fromEmbed=3){:target="_blank"}, every single member should understand its goals and expected outcomes, spend enough time together studying it & questioning its benefits, sign up for [DevOps Culture and Mindset](https://www.coursera.org/learn/devops-culture-and-mindset){:target="_blank"} course
+   Make an accent that the Team is now working under [DevOps Methodology and its 3 Ways](https://miro.com/app/board/o9J_l_dQ8LQ=/?fromEmbed=3){:target="_blank"}, every single member should understand its goals and expected outcomes, spend enough time together studying it & questioning its benefits, sign up for [DevOps Culture and Mindset](https://www.coursera.org/learn/devops-culture-and-mindset){:target="_blank"} course
 
 2. Develop and maintain the DevOps mindset:
 
@@ -140,6 +144,8 @@ Based on experience i 've gained through the years and books combined I present 
 9. Leadership (with help of Management if required) is to provide recurring reports with evidence of Transformation progress Organization-wide, for better or worse
 
 ## Conclusion
+
+Once **Start Small** actions yield positive results, you will have enough experience and knowledge to can scale-out your Transformation on other Teams, slowly but surely establishing DevOps Culture in your Org :slightly_smiling_face:
 
 It is important to bear in mind one thing:
 
