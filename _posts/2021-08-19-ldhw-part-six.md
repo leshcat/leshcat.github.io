@@ -129,11 +129,11 @@ Based on experience i 've gained through the years and books combined I present 
 
 3. Make it your own:
 
-   Don't try to execute all the DevOps Principles & their Practices perfectly, some things can be dropped out for now. As once pretty famous CEO said: *"In order to become a Butterfly the creature must to go through thee cattle pillar form first"*
+   Don't try to execute all the DevOps Principles & their Practices perfectly at first, some things can be dropped out for now. As once pretty famous CEO said: *"In order to become a Butterfly the creature must to go through the cattle pillar form first"*
 
 4. Lead by example:
 
-   Always question your decisions against 3 Ways. Note, it is absolutely fine to deviate from it for substantial quick Business win, given your solution is registered as Tech Debt afterwards
+   Always question your decisions against ["3 Ways"](https://ldhq.io/glossary/#devops-principles){:target="_blank"}. Note, it is absolutely fine to deviate from it for substantial quick Business win, given your solution is registered as Tech Debt afterwards
 
 5. Practice patience: Rome wasn't built right away
 
@@ -147,9 +147,9 @@ Based on experience i 've gained through the years and books combined I present 
 
 ## Conclusion
 
-Once **Start Small** actions yield positive results, you will have enough experience and knowledge to can scale-out your Transformation on other Teams, slowly but surely establishing DevOps Culture in your Org :slightly_smiling_face:
+Once **Start Small** actions yield positive results, you will have enough experience and knowledge to scale-out your Transformation on other Teams, slowly but surely establishing DevOps Culture in your Org :slightly_smiling_face:
 
-It is important to bear in mind one thing:
+It is also important to bear one thing in mind:
 
 Improvements in software delivery by adopting Methodologies like Agile or DevOps, implementing Spotify Engineering Organizational Structure for your Org and so on and so on are only possible, as long as leadership provides consistent support: including time, actions, and resources — demonstrating a true commitment to improvement, and as long as Team members commit themselves to the work.
 
