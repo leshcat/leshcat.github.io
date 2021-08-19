@@ -4,9 +4,11 @@ title: "Learn DevOps The Hard Way Finale: Org Transformation"
 date: 2021-08-19
 categories: posts
 tags: devops
+
 toc: true
+toc_sticky: false
 toc_label: Table of Contents
-toc_sticky: true
+
 excerpt: >-
   So we know what DevOps Methodology is and willing to apply it. So where do we Begin?
 ---
@@ -121,7 +123,7 @@ Based on experience i 've gained through the years and books combined I present 
 
     * Own and be responsible for the whole delivery lifecycle as a Team
 
-    * Know how all the counterparts are stitched together for your service and how it Impacts the Whole System, recall [Systems Thinking]({{ site.url }}/posts/ldhw-part-five/){:target="_blank"}
+    * Know how all the counterparts are stitched together for your service and how it Impacts the Whole System, recall [Systems Thinking]({{ site.url }}/posts/ldhw-part-five/#the-systems-thinking){:target="_blank"}
 
     * Share your local knowledge with Organization by Documenting it in Org's Confluence, start ["Lunch n' Learn"](https://www.mindtools.com/pages/article/lunch-and-learn.htm){:target="_blank"} days
 
