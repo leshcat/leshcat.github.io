@@ -30,7 +30,7 @@ However, According to ["The DevOps Handbook"](https://www.amazon.com/DevOps-Hand
 
 ### Observation: DevOps in existing Organizations
 
-Hiring a bunch of "DevOps" guys and safely assuming you have DevOps now, *"just like anybody else"* - is the most common mistake existing Organizations do.
+Hiring a bunch of "DevOps" guys and safely assuming you have DevOps now, *"just like everybody else"* - is the most common mistake existing Organizations do.
 
 Being *"one of these"* guys, generally speaking there are two places you can fall-in:
 
@@ -92,7 +92,7 @@ Nothing crazy new will follow below, but it's important you do a self-check:
       - **What** is exactly expected: links, "just like they have", metrics etc
       - **How** it should be implemented: recommendations or restrictions of desired solution
 
-    *  If your Sprints constantly failing due to the lack of working Prioritising Mechanism or it is simply not respected, as a workaround, instead of Sprints consider ScrumBan:
+    *  If your Sprints constantly fail due to the lack of working Prioritising Mechanism or it is simply not respected, as a workaround, instead of Sprints consider ScrumBan:
 
         Check out following resources for proper ScrumBan transition in terms of steps and calculating Work In Process(WIP):
         * ["Agile: Scrum, Kanban & Scrumban"](https://medium.com/@shehanb/agile-scrum-kanban-scrumban-cheatsheet-sprint-artifacts-ceremonies-software-jira-trello-scrumage-pmbok-e669d5dbf6f3){:target="_blank"}
@@ -107,7 +107,7 @@ Nothing crazy new will follow below, but it's important you do a self-check:
 
 * Check out ["Value Stream Mapping" Book](https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915){:target="_blank"}
 
-  VSM allows you to understand and optimise your existing Value Streams by removing wasted time and even parts of your chain
+  VSM allows you to understand and optimise your existing Value Streams by removing wasted time and even obsolete parts of your chain, hence reducing "TTM"
 
 ### Start shifting to DevOps Mindset
 
@@ -117,7 +117,7 @@ Based on experience i 've gained through the years and books combined I present 
 
    Why should this case be any different?
 
-   Make an accent that the Team is now working under [DevOps Methodology and its 3 Ways](https://miro.com/app/board/o9J_l_dQ8LQ=/?fromEmbed=3){:target="_blank"}, every single member should understand its goals and expected outcomes, spend enough time together studying it & questioning its benefits, sign up for [DevOps Culture and Mindset](https://www.coursera.org/learn/devops-culture-and-mindset){:target="_blank"} course
+   Make an accent that the Team is now working under [DevOps Methodology and its 3 Ways](https://miro.com/app/board/o9J_l_dQ8LQ=/?fromEmbed=3){:target="_blank"}, every single member should understand its goals and expected outcomes, spend enough time together studying it & questioning its benefits, sign up for [DevOps Culture and Mindset](https://www.coursera.org/learn/devops-culture-and-mindset){:target="_blank"} course and complete it
 
 2. Develop and maintain the DevOps mindset:
 
@@ -161,7 +161,7 @@ If you are DevOps/Engineering Manager or even CTO in "existing Organization" des
 * Have a humane work/life balance
 * Calmly think through the Modern Tech that will make your Org success even greater with obvious benefits for you and your colleagues
 
-I call you to read this blog very carefully, add your thoughts, do some Nice Customer-Centric Slides for the Leadership and get to the Tops with your Plan.
+I call you to re-read this blog from the beginning very carefully, add your thoughts, do some Nice Customer-Centric Slides for the Leadership and get to the Tops with your Plan.
 
 In the event of failure - don't give up just yet, recall the Samuel Beckett's words:
 
