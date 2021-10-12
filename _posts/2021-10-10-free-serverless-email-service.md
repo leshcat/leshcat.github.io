@@ -90,7 +90,7 @@ SES is also [very kind](https://aws.amazon.com/ses/pricing/){:target="_blank"} i
 
 ![pricing](/assets/images/startup/serverless-email-service/2-ses-pricing.png)
 
-Since I didn't find any complete solution but bits and pieces across the web, I have took the liberty [creating it](https://github.com/leshcat/serverless-email-service){:target="_blank"} myself :smirk:
+Except for similar ["0x4447_product_s3_email"](https://github.com/0x4447/0x4447_product_s3_email){:target="_blank"} project and bits and pieces across the web, I haven't found modern solution, so i've took the liberty [creating it](https://github.com/leshcat/serverless-email-service){:target="_blank"} myself :smirk:
 
 Let's see it in action!
 
