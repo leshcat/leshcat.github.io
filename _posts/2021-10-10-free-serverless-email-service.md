@@ -212,6 +212,10 @@ More information on how to do that for various Domain providers can be [found he
 
 **NOTE**: If you are using **GoDaddy** like me, you need to drop the domain apex from verification record, just like [inkplant's "amazon-ses-godaddy"](https://inkplant.com/code/amazon-ses-godaddy){:target="_blank"} post noted.
 
+You can check your domain's records via [mxtoolbox](https://mxtoolbox.com/dkim.aspx){:target="_blank"} or [dmarcanalyzer](https://www.dmarcanalyzer.com/how-to-validate-a-domainkey-dkim-record/){:target="_blank"}, example:
+
+![dkim-check](/assets/images/startup/serverless-email-service/3-dkim-check.png)
+
 Once your records propagate, it takes approx ~10 minutes for domain to change status from Pending:
 
 ![verification-pending](/assets/images/startup/serverless-email-service/2-ses-verification-pending.png)
@@ -265,13 +269,21 @@ People respecting Doge always write a reply. And here is the final result:
 
 Works like charm :smirk:
 
-## Being Free* solution
+## Being Free* & Prod-Grade solution
 
 As of time of writing this post, Amazon Billing Dashboard forecasted 0.00 USD for the end of month and reported plenty of Free Tier resources available:
 
 ![pricing](/assets/images/startup/serverless-email-service/5-pricing-results.png)
 
 Unless you are sending thousands of mails per day with 4K videos attached (not to worry, [limits](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/limits.html){:target="_blank"} won't allow that), you 'll probably never pay a dime for months to come.
+
+:fire: However! :fire:
+
+Serverless Email Service **should not be considered Production-Grade solution for Companies larger than ~5-7 users**, as budget predictability becomes uncertain and overall control is basically limited.
+
+If your Company or Startup rapidly extends the numbers of employees, in my opinion it's best to consider paid alternatives provided above.
+
+Anyway, it's up to you :slightly_smiling_face:.
 
 ## Conclusion
 
