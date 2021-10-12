@@ -11,7 +11,7 @@ toc_label: Table of Contents
 
 excerpt: >-
   Eventually you will require a professional-grade email address.
-  What are the options and what's the price?
+  What are the options and pricing? Can this service be Free?
 
 ---
 ## Preamble
