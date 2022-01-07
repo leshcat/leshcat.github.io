@@ -3,7 +3,7 @@ layout: single
 title:  "Free* Serverless Email Service in 20 minutes"
 date:   2021-10-10
 categories: posts
-tags: devops aws ses
+tags: devops aws ses email service
 
 toc: true
 toc_sticky: true
