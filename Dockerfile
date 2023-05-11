@@ -1,9 +1,9 @@
 
-# inspired by:
+# Inspired by:
 # https://containers.dev/
 # https://www.youtube.com/watch?v=owHfKAbJ6_M
 # https://blog.saeloun.com/2022/07/12/docker-cache.html
-ARG BASE_IMAGE=ruby:2.7-alpine3.15
+ARG BASE_IMAGE=ruby:2.7-alpine3.16
 ARG CACHE_IMAGE=${BASE_IMAGE}
 
 # Build stage for the gem cache
