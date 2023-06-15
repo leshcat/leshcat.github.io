@@ -58,9 +58,9 @@ In essence, all you need is to:
 
 * Create basic configuration for Dev Containers: [configuration example](https://github.com/leshcat/leshcat.github.io/blob/master/.devcontainer/devcontainer.json){:target="_blank"}
 
-* Create Dockerfile that will download and install all tools and libs you need for your project, [here is mine for example](https://github.com/leshcat/leshcat.github.io/blob/master/Dockerfile){:target="_blank"}
+* Create Dockerfile that will download and install all tools and libs you need for your project on the base image, [here is mine as example](https://github.com/leshcat/leshcat.github.io/blob/master/Dockerfile){:target="_blank"}
 
-You can always refer to official [getting started guide](https://code.visualstudio.com/docs/devcontainers/tutorialn){:target="_blank"} for more examples.
+You can always refer to official [getting started guide](https://code.visualstudio.com/docs/devcontainers/tutorial){:target="_blank"} for more information.
 
 ## Demo time!
 
@@ -68,7 +68,7 @@ You can always refer to official [getting started guide](https://code.visualstud
 
 ## Conclusion
 
-As a result of using Dev Containers, we 've got an immutable and portable dev environment that thanks to docker isolation does not interfere with others or host system. :wink:
+As a result of using Dev Containers, we 've got an immutable and portable dev environment that thanks to Docker isolation does not interfere with others or host system. :wink:
 
 Stay Frosty,
 
