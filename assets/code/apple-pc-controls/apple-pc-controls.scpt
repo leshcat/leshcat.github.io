@@ -1,4 +1,33 @@
-# Variables
+# This code is distributed under MIT license:
+# Copyright (c) 2023 ldhq.io
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+# "Apple PC controls"
+#
+# This script provides PC controls experience: 
+#  - keyboard is modified to match default PC layout 
+#  - built-in trackpad is ignored in favour of external mouse
+#
+# Most of the elements were identified via UI-Browser: https://latenightsw.com/freeware/ui-browser/
+
+# Variables (change it to your preferences)
 set appList to {"Boosteroid", "NVIDIA GeForce NOW", "Steam", "Calculator", "Other"}
 set gamingKeyboardSettings to {globeKeyAction:"Do Nothing", enableStandardFnKeys:true, controlKeyMap:"🌐︎ Globe", globeKeyMap:"^ Control"}
 set defaultKeyboardSettings to {globeKeyAction:"Change Input Source", enableStandardFnKeys:false, controlKeyMap:"^ Control", globeKeyMap:"🌐︎ Globe"}
@@ -7,7 +36,7 @@ set defaultTrackpadSettings to {enableNaturalScrolling:true, ingoreBuiltInTrackP
 
 # Functions
 
-# Modify Trackpad Settings
+# Modify trackpad settings
 # Options:
 #  - enable/disable Natural Scrolling
 on modifyTrackpad(trackpadSettings)
@@ -63,7 +92,7 @@ on modifyTrackpad(trackpadSettings)
 	
 end modifyTrackpad
 
-# Modify Keyboard Settings
+# Modify keyboard settings
 # Options:
 #  - enable/disable Fn (Globe) action
 #  - swap Fn (Globe) and Control buttons
@@ -270,7 +299,8 @@ try
 	activate application appName
 	
 	# Some apps need some time to enable
-	delay 5
+	# Wait for 10 seconds
+	delay 10
 	
 	# And wait until it is closed
 	repeat while application appName is running
