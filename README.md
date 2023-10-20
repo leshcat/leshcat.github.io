@@ -12,3 +12,9 @@ Wait for build to complete.
 ```sh
 bundle exec jekyll serve
 ```
+
+or with drafts:
+
+```sh
+bundle exec jekyll serve --drafts
+```
