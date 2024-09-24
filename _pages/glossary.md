@@ -28,3 +28,7 @@ They are marked as circles on ["DevOps Principles cheatsheet"](https://miro.com/
 
 DevOps Practices - is a set of practices, forming DevOps Principles.
 They are marked as rectangles on ["DevOps Principles cheatsheet"](https://miro.com/app/board/o9J_l_dQ8LQ=/?fromEmbed=3){:target="_blank"}
+
+#### DevOps Culture
+
+DevOps Culture - is a Culture where surrounding teams become your internal clients. By using DevOps Methodology to meet their needs, you help them swiftly deliver technical or business value to end customers
