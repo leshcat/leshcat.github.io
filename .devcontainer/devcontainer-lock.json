@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/cirolosapio/devcontainers-features/alpine-curl:0": {
+      "version": "0.0.2",
+      "resolved": "ghcr.io/cirolosapio/devcontainers-features/alpine-curl@sha256:7e1899932b8f0220e5a85933ce391b903241b65659f13e095e24e7264381254b",
+      "integrity": "sha256:7e1899932b8f0220e5a85933ce391b903241b65659f13e095e24e7264381254b"
+    }
+  }
+}
